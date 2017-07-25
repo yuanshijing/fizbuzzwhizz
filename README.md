@@ -55,8 +55,7 @@ Buzz
 
 ## 如何开始：
 
-1. git clone https://github.com/goooooouwa/bootstrap-resume-starting-point.git
-2. 打开并修改index.html，完成练习。
+1. `git clone https://github.com/tws-practice/fizbuzzwhizz.git`
 
 ## 学习资源
 
