@@ -63,7 +63,3 @@ Buzz
 - 测试驱动开发(Test-Driven Development)：[https://baike.baidu.com/item/TDD/9064369](https://baike.baidu.com/item/TDD/9064369)
 - Jasmine：[https://jasmine.github.io/2.0/introduction.html](https://jasmine.github.io/2.0/introduction.html)
 
-## 常见问题
-
-- // 常见问题和解决办法链接
-
