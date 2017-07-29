@@ -56,7 +56,7 @@ Buzz
 ## 如何开始：
 
 1. `git clone https://github.com/tws-practice/fizbuzzwhizz.git`
-2. 修改`src`目录下的`main.js`和`main-test.js`文件，使用run.html运行测试，完成练习。
+2. 修改`src`目录下的`main.js`和`main-test.js`文件，打开`run.html`运行测试，完成练习。
 
 ## 学习资源
 
